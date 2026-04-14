@@ -1,0 +1,347 @@
+[
+  {
+    "id": "036bfadf-b5f4-4180-b4ff-be4625006f95",
+    "title": "Streaming Services",
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "folders": [
+      {
+        "id": "cf5f08ba-e860-4927-b2b5-9641f0aca351",
+        "title": "Netflix",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/VNmsZ2L2/IMG-1287.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.86751"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.86752"
+          }
+        ]
+      },
+      {
+        "id": "c7f6372c-ea99-4193-8511-768d2f44e03d",
+        "title": "Disney+",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/kGRVN0KT/Disney.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.86759"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.86758"
+          }
+        ]
+      },
+      {
+        "id": "a462487f-0513-4b03-852f-d7b62d6f0bec",
+        "title": "Apple TV",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple_TV.webp",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.86757"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.86625"
+          }
+        ]
+      },
+      {
+        "id": "1f30ef66-bba6-404a-bc18-3cf028bfc78c",
+        "title": "Prime Video",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime_Video.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.86755"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.86753"
+          }
+        ]
+      },
+      {
+        "id": "757d9daf-2c66-448c-9eea-2ee23340227c",
+        "title": "HBO Max",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/8k7wnsb0/Hbo-Max.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.89647"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.89649"
+          }
+        ]
+      },
+      {
+        "id": "a70f6a90-7ffa-44c7-92ae-a39c56b14e01",
+        "title": "Paramount+",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/FKFVbKRG/Paramount.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.86761"
+          }
+        ]
+      },
+      {
+        "id": "20fbd16a-d391-4a75-9151-9e1ce3c67b59",
+        "title": "Hulu",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/FzNP8gFX/Hulu.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.127955"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.127954"
+          }
+        ]
+      },
+      {
+        "id": "9d57dad4-fdc0-4093-b49d-60e3e5054947",
+        "title": "Peacock",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/85QfkLW7/Peacock.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.83487"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.83484"
+          }
+        ]
+      },
+      {
+        "id": "2f3f51dd-9ffe-4c89-854d-4c87ed762e32",
+        "title": "Shudder",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/tTnhj8VJ/shudder_3.webp",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.62454"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.43438"
+          }
+        ]
+      },
+      {
+        "id": "8c128410-f9f0-454c-913a-0b1bd8f11f66",
+        "title": "Crunchyroll",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/Y0PMVVjb/18-45er-2560-jpg.webp",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "anime",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "anime",
+            "catalogId": "streaming.cru_series"
+          }
+        ]
+      },
+      {
+        "id": "fb10a98a-3cd3-4c74-969b-21b876eefc45",
+        "title": "STARZ",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/vBKRn44h/starz_2.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.sta_series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.sta_movie"
+          }
+        ]
+      },
+      {
+        "id": "5e9ef4b6-d6a9-49c8-90e6-bdde2fe2f7a7",
+        "title": "britbox",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/k4HrS22Y/britbox.png",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "mdblist.155210"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "mdblist.155211"
+          }
+        ]
+      },
+      {
+        "id": "6c8ed2b0-8661-4298-9ba6-051216acd69e",
+        "title": "MagellanTV",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/bJ5XnZZC/magellantv.webp",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.mgl_series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.mgl_movie"
+          }
+        ]
+      },
+      {
+        "id": "9a5b9c2e-5844-4c12-9028-ef81de829110",
+        "title": "Curiosity Stream",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/v85c6kMV/curiiosity_new.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.cts_series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.cts_movie"
+          }
+        ]
+      },
+      {
+        "id": "583f28d4-9722-4b6f-b305-2488ddd98ad1",
+        "title": "discovery+",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/wvrKN11r/discovery.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.dpe_series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.dpe_movie"
+          }
+        ]
+      },
+      {
+        "id": "309ac94f-567b-488c-839f-4151a2d4280a",
+        "title": "MUBI",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/Px7GDCC2/mubi.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.mub_movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.mub_series"
+          }
+        ]
+      },
+      {
+        "id": "2e75d101-3cb3-4059-8ba6-13c8f328a31f",
+        "title": "Netflix Kids",
+        "tileShape": "LANDSCAPE",
+        "hideTitle": false,
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://i.postimg.cc/L5b2Tyhb/netflix_kids.jpg",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "type": "movie",
+            "catalogId": "streaming.nfk_movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "type": "series",
+            "catalogId": "streaming.nfk_series"
+          }
+        ]
+      }
+    ]
+  }
+]
